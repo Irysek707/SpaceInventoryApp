@@ -1,0 +1,18 @@
+F11,55,Rice	
+T51,255,Scanner
+F34,79,Pasta 	           
+T15,605,Circuit Board  
+P22,180,Books 	           
+P31,90,DVD
+T56,200,Lights	           
+P14,80,Shoes  
+F16,80,Water	           
+P68,85,Hygiene  
+T77,300,Tools	           
+F35,40,Peas  
+P12,95,Hygiene	           
+T25,185,Laser  
+F41,92,Protein	           
+F91,90,Meat  
+T22,450,Monitor 	           
+F39,64,Porridge
